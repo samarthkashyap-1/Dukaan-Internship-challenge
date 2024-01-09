@@ -1,6 +1,6 @@
 import React from 'react'
 import { NAVBAR_ICONS } from '../services/const';
-import logo from "../assets/imagelogo.png";
+import logo from "../assets/Imagelogo.png";
 import downA4rrow from "../assets/Vectordown.png";
 import wallet from "../assets/walletwallet.png";
 
