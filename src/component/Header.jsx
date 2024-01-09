@@ -6,7 +6,7 @@ import Message from "../assets/Groupmessage.png";
 
 const Header = () => {
   return (
-    <div className="flex justify-between px-8 pl-16 py-3 h-16 fixed w-[calc(100%-180px)] bg-white border-b-2">
+    <div className="flex justify-between z-30 px-8 pl-16 py-3 h-16 fixed w-[calc(100%-180px)] bg-white border-b-2">
       <div className="flex w-[29.61%] gap-4">
         <p className="text-lg font-semibold my-auto">Payments</p>
         <div className="flex text-xs w-full m-auto gap-2 hover:cursor-pointer">
