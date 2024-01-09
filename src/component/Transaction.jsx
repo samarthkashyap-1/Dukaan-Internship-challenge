@@ -22,7 +22,7 @@ const Transaction = () => {
       <div className="p-3 pb-6 bg-white rounded-md shadow">
         <div className="h-[92px] flex flex-col gap-3">
           <div className="flex">
-            <div className="border-2   px-4  h-[40px] flex rounded-md">
+            <div className="border-2 px-4  h-[40px] flex rounded-md">
               <img src={search} alt="" className="w-4 h-4 m-auto mr-2" />
               <input
                 type="text"
