@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Dancing+Script&family=Inter&family=Merriweather:ital@0;1&family=Montserrat:wght@500;600&family=Pacifico&family=Pixelify+Sans&family=Poppins&family=Tilt+Neon&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
