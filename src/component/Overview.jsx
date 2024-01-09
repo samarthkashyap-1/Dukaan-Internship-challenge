@@ -4,7 +4,7 @@ import arrow from "../assets/Vectordown.png";
 
 const Overview = () => {
   return (
-    <div className="h-[237px] flex flex-col gap-5">
+    <div className="h-[178px] flex flex-col gap-5">
       <div className="h-9 flex">
         <h1 className=" text-lg font-semibold">Overview</h1>
         <div className="flex ml-auto gap- ">
@@ -14,14 +14,7 @@ const Overview = () => {
           </div>
         </div>
       </div>
-      <div className="h-9 flex gap-4 text-[18px] border-b-2 ">
-        <div className="text-[#146eb4] cursor-pointer border-b-[3px] border-[#146eb4] h-9">
-          <p>Razerpay</p>
-        </div>
-        <div>
-          <p className=" font-normal text-gray-500 cursor-pointer">Cashfree</p>
-        </div>
-      </div>
+      
       <div className="flex gap-5">
         <div className="flex flex-1 flex-col p-5 rounded-md shadow bg-white h-[118px] ">
           <div className="h-[78px] flex flex-col justify-between gap-1">
